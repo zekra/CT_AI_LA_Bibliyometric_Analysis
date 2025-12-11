@@ -1,0 +1,50 @@
+Year,MainTopicID,MainTopic,Freq
+2009,1,AI Literacy + CT,6
+2013,1,AI Literacy + CT,6
+2015,3,CT + Learning Analytics,6
+2016,1,AI Literacy + CT,6
+2016,2,Generative AI & CT Teaching,12
+2017,2,Generative AI & CT Teaching,6
+2017,3,CT + Learning Analytics,12
+2017,4,CT + AI-Based Learning Environments,6
+2017,6,CT + Data Science / Python / Visualization,6
+2018,3,CT + Learning Analytics,6
+2019,1,AI Literacy + CT,18
+2019,2,Generative AI & CT Teaching,12
+2019,3,CT + Learning Analytics,12
+2019,6,CT + Data Science / Python / Visualization,6
+2020,1,AI Literacy + CT,30
+2020,2,Generative AI & CT Teaching,24
+2020,3,CT + Learning Analytics,12
+2020,4,CT + AI-Based Learning Environments,12
+2020,6,CT + Data Science / Python / Visualization,18
+2021,1,AI Literacy + CT,42
+2021,2,Generative AI & CT Teaching,12
+2021,3,CT + Learning Analytics,54
+2021,4,CT + AI-Based Learning Environments,36
+2021,5,Early Childhood CT + AI,24
+2021,6,CT + Data Science / Python / Visualization,24
+2022,1,AI Literacy + CT,24
+2022,2,Generative AI & CT Teaching,48
+2022,3,CT + Learning Analytics,18
+2022,4,CT + AI-Based Learning Environments,24
+2022,5,Early Childhood CT + AI,18
+2022,6,CT + Data Science / Python / Visualization,18
+2023,1,AI Literacy + CT,60
+2023,2,Generative AI & CT Teaching,30
+2023,3,CT + Learning Analytics,30
+2023,4,CT + AI-Based Learning Environments,18
+2023,5,Early Childhood CT + AI,36
+2023,6,CT + Data Science / Python / Visualization,24
+2024,1,AI Literacy + CT,78
+2024,2,Generative AI & CT Teaching,108
+2024,3,CT + Learning Analytics,60
+2024,4,CT + AI-Based Learning Environments,84
+2024,5,Early Childhood CT + AI,102
+2024,6,CT + Data Science / Python / Visualization,84
+2025,1,AI Literacy + CT,18
+2025,2,Generative AI & CT Teaching,108
+2025,3,CT + Learning Analytics,72
+2025,4,CT + AI-Based Learning Environments,192
+2025,5,Early Childhood CT + AI,168
+2025,6,CT + Data Science / Python / Visualization,126

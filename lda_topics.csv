@@ -1,0 +1,61 @@
+topic,term,beta,MainTopic
+1,model,0.03730522894560749,AI Literacy + CT
+1,machine,0.022488289838447563,AI Literacy + CT
+1,paper,0.020815409616671443,AI Literacy + CT
+1,educational,0.01794761495076953,AI Literacy + CT
+1,potential,0.016513717617818564,AI Literacy + CT
+1,framework,0.01603575184016824,AI Literacy + CT
+1,models,0.015796768951343087,AI Literacy + CT
+1,proposed,0.014601854507217283,AI Literacy + CT
+1,time,0.012928974285441165,AI Literacy + CT
+1,systems,0.012689991396615998,AI Literacy + CT
+2,education,0.08144587832499343,Generative AI & CT Teaching
+2,research,0.06257132824159425,Generative AI & CT Teaching
+2,science,0.032723202528311825,Generative AI & CT Teaching
+2,technology,0.025041699587393558,Generative AI & CT Teaching
+2,activities,0.019115968747256604,Generative AI & CT Teaching
+2,studies,0.015604424545693963,Generative AI & CT Teaching
+2,stem,0.013629180932314985,Generative AI & CT Teaching
+2,computing,0.011653937318936,Generative AI & CT Teaching
+2,field,0.01077605126854535,Generative AI & CT Teaching
+2,future,0.01077605126854535,Generative AI & CT Teaching
+3,based,0.06526416994780698,CT + Learning Analytics
+3,data,0.05130024723010714,CT + Learning Analytics
+3,analysis,0.03710740774654335,CT + Learning Analytics
+3,assessment,0.02566156945334677,CT + Learning Analytics
+3,game,0.020854317370204194,CT + Learning Analytics
+3,process,0.02062540060434026,CT + Learning Analytics
+3,developed,0.01719164911638128,CT + Learning Analytics
+3,creativity,0.016733815584653415,CT + Learning Analytics
+3,analytics,0.014673564691878034,CT + Learning Analytics
+3,environment,0.012384397033238712,CT + Learning Analytics
+4,programming,0.08332992180783559,CT + AI-Based Learning Environments
+4,learners,0.030110124043067094,CT + AI-Based Learning Environments
+4,solving,0.022536537438080814,CT + AI-Based Learning Environments
+4,approach,0.021922462848487326,CT + AI-Based Learning Environments
+4,results,0.02048962213943587,CT + AI-Based Learning Environments
+4,experimental,0.019466164490113395,CT + AI-Based Learning Environments
+4,computer,0.017828632251197445,CT + AI-Based Learning Environments
+4,skills,0.017009866131739472,CT + AI-Based Learning Environments
+4,significantly,0.013325418594178578,CT + AI-Based Learning Environments
+4,effective,0.0123019609448561,CT + AI-Based Learning Environments
+5,skills,0.04257067026161689,Early Childhood CT + AI
+5,design,0.03561949698782491,Early Childhood CT + AI
+5,development,0.0322492311581076,Early Childhood CT + AI
+5,educational,0.030353456628891606,Early Childhood CT + AI
+5,tools,0.028036398870960943,Early Childhood CT + AI
+5,digital,0.02277035851202764,Early Childhood CT + AI
+5,student,0.01876816783923832,Early Childhood CT + AI
+5,findings,0.018557526224880983,Early Childhood CT + AI
+5,critical,0.015187260395163663,Early Childhood CT + AI
+5,coding,0.01371276909466234,Early Childhood CT + AI
+6,literacy,0.04765863742584936,CT + Data Science / Python / Visualization
+6,artificial,0.03956947690095272,CT + Data Science / Python / Visualization
+6,intelligence,0.038895380190544664,CT + Data Science / Python / Visualization
+6,school,0.031030918569117386,CT + Data Science / Python / Visualization
+6,teaching,0.028334531727485176,CT + Data Science / Python / Visualization
+6,teachers,0.02271705914075139,CT + Data Science / Python / Visualization
+6,knowledge,0.019795973395649834,CT + Data Science / Python / Visualization
+6,results,0.018897177781772426,CT + Data Science / Python / Visualization
+6,information,0.017099586554017623,CT + Data Science / Python / Visualization
+6,curriculum,0.01642548984360956,CT + Data Science / Python / Visualization

@@ -1,0 +1,21 @@
+YEARLY PUBLICATIONS CSV OUTPUT;;;
+;;;
+metric;category;label;value
+yearly_publications;year;2008;0
+yearly_publications;year;2009;1
+yearly_publications;year;2010;0
+yearly_publications;year;2011;0
+yearly_publications;year;2012;0
+yearly_publications;year;2013;1
+yearly_publications;year;2014;0
+yearly_publications;year;2015;1
+yearly_publications;year;2016;3
+yearly_publications;year;2017;5
+yearly_publications;year;2018;1
+yearly_publications;year;2019;9
+yearly_publications;year;2020;16
+yearly_publications;year;2021;32
+yearly_publications;year;2022;26
+yearly_publications;year;2023;33
+yearly_publications;year;2024;86
+yearly_publications;year;2025;114

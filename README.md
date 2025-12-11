@@ -29,5 +29,5 @@ If you use this repository, please cite the associated manuscript once published
 
 Sayın, Z. (2025). Computational Thinking Research at the Intersection of Artificial Intelligence and Learning Analytics: A Multi-Database Bibliometric Mapping (2010–2025). Zenodo. https://doi.org/10.5281/zenodo.17878859 
 
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/61955706-8042-4aa8-8895-bbe6fc8b96a7" />
+
 

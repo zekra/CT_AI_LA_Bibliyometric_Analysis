@@ -1,1 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite this work."
+title: "Computational Thinking Research at the Intersection of Artificial Intelligence and Learning Analytics: A Multi-Database Bibliometric Mapping (2010–2025)"
+version: "1.0"
+doi: "10.5281/zenodo.17878859"
+date-released: "2025-02-15"
+authors:
+  - family-names: "Sayın"
+    given-names: "Zehra"
+    affiliation: "Hacettepe University, Faculty of Education"
+    orcid: "https://orcid.org/0000-0001-7789-3546"
+
+repository-code: "https://github.com/zekra/CT_AI_LA_Bibliyometric_Data"
+license: "MIT"
+
+keywords:
+  - "Computational Thinking"
+  - "Artificial Intelligence"
+  - "Learning Analytics"
+  - "Bibliometric Analysis"
+  - "Topic Modeling"
+  - "LDA"
+  - "Educational Technology"
+
+abstract: >
+  This repository provides reproducible research materials, including analysis scripts,
+  aggregated data, and topic modeling outputs for the study examining the intersection
+  of Computational Thinking, Artificial Intelligence, and Learning Analytics between
+  2010 and 2025. Raw bibliographic data from Web of Science, IEEE Xplore, and ERIC
+  cannot be redistributed due to licensing restrictions; however, cleaned metadata
+  and all analytical code are openly available.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Sayın"
+      given-names: "Zehra"
+  title: "Computational Thinking Research at the Intersection of Artificial Intelligence and Learning Analytics: A Multi-Database Bibliometric Mapping (2010–2025)"
+  year: "2025"
+  doi: "10.5281/zenodo.17878859"
 
